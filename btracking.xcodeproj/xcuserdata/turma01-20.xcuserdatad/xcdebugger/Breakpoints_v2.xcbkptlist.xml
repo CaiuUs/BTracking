@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A85092D1-950A-4E60-A6B0-6320E4582201"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "779336EF-229C-44DA-9583-868B727887C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btracking/viewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "BaixarDados()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "779336EF-229C-44DA-9583-868B727887C4 - 7e1307234c6914f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "779336EF-229C-44DA-9583-868B727887C4 - 7e1307234c6914f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9817B51-6682-4DA0-8AFB-D5895F2CF37A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btracking/viewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "BaixarDados()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9817B51-6682-4DA0-8AFB-D5895F2CF37A - 7e1307234c691572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "D9817B51-6682-4DA0-8AFB-D5895F2CF37A - 6a03d5fefa8c0b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "D9817B51-6682-4DA0-8AFB-D5895F2CF37A - 69e4350f83e9ffb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "870EB856-B7B1-4FBB-86BB-D9EC85CF8CB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btracking/viewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "BaixarDados()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "870EB856-B7B1-4FBB-86BB-D9EC85CF8CB9 - 6a03d5fefa8c0ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "870EB856-B7B1-4FBB-86BB-D9EC85CF8CB9 - 6a03d5fefa8c0ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA778816-2A6A-4578-8B82-57EDF19BAC86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "btracking/viewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "BaixarDados()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA778816-2A6A-4578-8B82-57EDF19BAC86 - 6a03d5fefa8c04f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "FA778816-2A6A-4578-8B82-57EDF19BAC86 - 69e4350f83e9ffb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in btracking.ViewModel.BaixarDados() -&gt; ()"
+                  moduleName = "btracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turma01-20/Desktop/my%20project/btracking/btracking/viewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
